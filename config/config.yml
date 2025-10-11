@@ -1,0 +1,28 @@
+# config/config.yml
+theme:
+  title: "程式筆記"
+  description: "每天一篇關於程式設計的小技巧、生活練習、心情分享等，讓你在程式的道路上越走越順！"
+  default_themes: ["stack", "queue", "資料庫", "演算法", "API 設計"]
+  prompt_template: |
+    請以專業又自然的語氣，撰寫一篇約 300 字的短文。
+    (不用和我確認主題，直接寫就好)
+    風格要程式設計的小技巧筆記，內容應有：
+
+    一句開場金句或小感想
+
+    盡量有建設性和列項式的建議，讓讀者能實際應用在理解上。
+
+    一句結尾鼓勵或互動語，像一位親切的朋友分享生活心得。
+    
+  history_reserve_days: 365
+functions:
+  send_tip: "send_discord.send_tip"
+  generate_text: "ai_generate_gemini.generate_text"
+  history:  
+    load: "history_script.load_history"
+    save: "history_script.save_history"
+    visualize_history: "visualize_history.visualize_history"
+  summary:
+    load: "summary_script.load_summary"
+    save: "summary_script.save_summary"
+    get_suggestion_prompt: "summary_script.get_suggestion_prompt"
