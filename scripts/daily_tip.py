@@ -1,13 +1,12 @@
 import yaml
-import json
 import random
 from datetime import datetime
 from read_module import read_module
-
+from ast import literal_eval
 # ===== 0. 初始化 =====
 
-# --- 讀 config.json ---
-with open("config.json", "r", encoding="utf-8") as f:
+# --- 讀 config.yml ---
+with open("config/config.yml", "r", encoding="utf-8") as f:
     config = yaml.safe_load(f)
 DEFAULT_THEMES = config["theme"]["default_themes"]
 PROMPT_TEMPLATE = config["theme"]["prompt_template"]
@@ -65,9 +64,12 @@ save_history(history)
 # === 4. 自動生成未來建議走向 ===
 recent_themes = [h["theme"] for h in history][-365:]
 
-response_suggest = generate_text(get_suggestion_prompt(recent_themes), TITLE, str(DEFAULT_THEMES))
+response_suggest = generate_text( get_suggestion_prompt(recent_themes, TITLE, str(DEFAULT_THEMES)) )
+response_suggest = literal_eval('[' + response_suggest.split("[")[1].split("]",1)[0] + ']')  # 僅取 ```python ``` 中的內容
+
 summary_data["recent_themes"] = recent_themes
-summary_data["suggestions"] = json.loads(response_suggest)
+print( response_suggest )
+summary_data["suggestions"] = response_suggest
 save_summary(summary_data)
 
 

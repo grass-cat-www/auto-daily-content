@@ -22,11 +22,10 @@ jobs:
           pip install requests discord.py
           pip install google-generativeai
           pip install google-genai
+          pip install pyyaml
       - name: Run daily tip script
         env:     # 設定環境變數
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python scripts/daily_tip.py
 
@@ -36,7 +35,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add data/history.json data/summary.json data/history.md
           git commit -m "Update daily tip $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Bryan0324/DCbot-daily-generator.git
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

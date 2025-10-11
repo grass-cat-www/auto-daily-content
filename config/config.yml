@@ -19,10 +19,10 @@ functions:
   send_tip: "send_discord.send_tip"
   generate_text: "ai_generate_gemini.generate_text"
   history:  
-    load: "history_script.load_history"
-    save: "history_script.save_history"
+    load: "history.load_history"
+    save: "history.save_history"
     visualize_history: "visualize_history.visualize_history"
   summary:
-    load: "summary_script.load_summary"
-    save: "summary_script.save_summary"
-    get_suggestion_prompt: "summary_script.get_suggestion_prompt"
+    load: "summary.load_summary"
+    save: "summary.save_summary"
+    get_suggestion_prompt: "summary.get_suggestion_prompt"

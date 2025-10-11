@@ -29,5 +29,5 @@ def get_suggestion_prompt(recent_themes: list[str], title: str, default_themes: 
 建議 10~20 個「未來可以使用的{title}相關主題」，
 不要與歷史主題重複，每個建議簡短易懂且具體。
 分類可以包括但不限於{default_themes}，
-(務必不要回答其他格式，僅回答python list格式)
+(務必不要回答其他格式，也不要說多餘的話，僅回答python list格式)
 """

@@ -1,4 +1,26 @@
 {
-    "recent_themes": [], 
-    "suggestions": []
+    "recent_themes": [
+        "queue"
+    ],
+    "suggestions": [
+        "Stack",
+        "Linked List",
+        "Binary Tree",
+        "Graph (Data Structure)",
+        "Hash Table",
+        "Sorting Algorithms (Merge Sort, Quick Sort)",
+        "Searching Algorithms (Binary Search)",
+        "Dynamic Programming",
+        "Recursion",
+        "Database (SQL)",
+        "Database (NoSQL)",
+        "API Design (RESTful)",
+        "API Authentication (OAuth)",
+        "Data Structures and Algorithms Complexity Analysis",
+        "Object-Oriented Programming (OOP)",
+        "Design Patterns",
+        "Concurrency and Parallelism",
+        "Memory Management",
+        "Caching Strategies"
+    ]
 }
