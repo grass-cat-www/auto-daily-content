@@ -2,27 +2,27 @@
     "recent_themes": [
         "queue",
         "Searching Algorithms (Binary Search)",
-        "妝容技巧"
+        "妝容技巧",
+        "Data Visualization with Matplotlib"
     ],
     "suggestions": [
         "Sorting Algorithms (Merge Sort)",
         "Linked Lists",
-        "Trees (Binary Trees)",
-        "Graphs (BFS & DFS)",
-        "Hashing",
+        "Stacks and Queues Implementation",
+        "Hash Tables",
+        "Trees (Binary Tree)",
+        "Graphs and Graph Algorithms",
         "Dynamic Programming",
         "Recursion",
-        "Object-Oriented Programming (OOP)",
-        "Data Structures and Algorithms Analysis",
-        "Python Decorators",
-        "Python Generators",
-        "Regular Expressions",
+        "Time Complexity Analysis",
+        "Space Complexity Analysis",
         "File I/O in Python",
-        "Error Handling in Python",
+        "Object-Oriented Programming (OOP)",
+        "Decorators in Python",
+        "Generators in Python",
+        "Regular Expressions",
+        "Database Interaction with Python (SQLAlchemy)",
         "Web Scraping with Beautiful Soup",
-        "SQL Databases with Python",
-        "Data Visualization with Matplotlib",
-        "Numerical Computing with NumPy",
-        "Data Analysis with Pandas"
+        "API Integration with Requests"
     ]
 }
