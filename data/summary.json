@@ -1,27 +1,6 @@
 {
     "recent_themes": [
-        "queue",
-        "Searching Algorithms (Binary Search)"
     ],
     "suggestions": [
-        "Sorting Algorithms (Merge Sort)",
-        "Linked Lists",
-        "Stacks",
-        "Trees (Binary Trees)",
-        "Graphs (BFS)",
-        "Graphs (DFS)",
-        "Hash Tables",
-        "Recursion",
-        "Dynamic Programming (Memoization)",
-        "Dynamic Programming (Tabulation)",
-        "Greedy Algorithms",
-        "String Manipulation",
-        "Regular Expressions",
-        "Object-Oriented Programming (OOP)",
-        "File I/O",
-        "Error Handling",
-        "Unit Testing",
-        "Decorators",
-        "Generators"
     ]
 }
