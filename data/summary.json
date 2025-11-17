@@ -3,26 +3,26 @@
         "queue",
         "Searching Algorithms (Binary Search)",
         "妝容技巧",
-        "Data Visualization with Matplotlib"
+        "Data Visualization with Matplotlib",
+        "Recursion"
     ],
     "suggestions": [
         "Sorting Algorithms (Merge Sort)",
         "Linked Lists",
-        "Stacks and Queues Implementation",
         "Hash Tables",
-        "Trees (Binary Tree)",
-        "Graphs and Graph Algorithms",
+        "Trees (Binary Search Trees)",
+        "Graphs",
         "Dynamic Programming",
-        "Recursion",
-        "Time Complexity Analysis",
-        "Space Complexity Analysis",
+        "Object-Oriented Programming in Python",
         "File I/O in Python",
-        "Object-Oriented Programming (OOP)",
+        "NumPy for Numerical Computation",
+        "Pandas for Data Analysis",
+        "Web Scraping with Beautiful Soup",
+        "Regular Expressions (Regex)",
         "Decorators in Python",
         "Generators in Python",
-        "Regular Expressions",
-        "Database Interaction with Python (SQLAlchemy)",
-        "Web Scraping with Beautiful Soup",
-        "API Integration with Requests"
+        "Error Handling (Try-Except)",
+        "Basic Data Structures",
+        "Command Line Arguments with Argparse"
     ]
 }
