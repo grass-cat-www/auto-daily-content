@@ -4,25 +4,27 @@
         "Searching Algorithms (Binary Search)",
         "妝容技巧",
         "Data Visualization with Matplotlib",
-        "Recursion"
+        "Recursion",
+        "Pandas for Data Analysis"
     ],
     "suggestions": [
         "Sorting Algorithms (Merge Sort)",
         "Linked Lists",
-        "Hash Tables",
-        "Trees (Binary Search Trees)",
-        "Graphs",
+        "Trees (Binary Search Tree)",
+        "Graphs (Graph Traversal)",
         "Dynamic Programming",
-        "Object-Oriented Programming in Python",
-        "File I/O in Python",
         "NumPy for Numerical Computation",
-        "Pandas for Data Analysis",
+        "Regular Expressions",
         "Web Scraping with Beautiful Soup",
-        "Regular Expressions (Regex)",
-        "Decorators in Python",
-        "Generators in Python",
-        "Error Handling (Try-Except)",
-        "Basic Data Structures",
-        "Command Line Arguments with Argparse"
+        "Object-Oriented Programming in Python",
+        "Error Handling and Debugging",
+        "男娘骨架隱藏：寬肩弱化",
+        "男娘骨架隱藏：腰線塑造",
+        "服裝搭配：色彩搭配原則",
+        "服裝搭配：風格選擇指南",
+        "眼神魅力：眼神訓練技巧",
+        "眼神魅力：情緒表達練習",
+        "香氣氣場：香水選擇指南",
+        "香氣氣場：留香技巧"
     ]
 }
