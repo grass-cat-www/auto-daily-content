@@ -11,25 +11,28 @@
         "男娘聲音訓練",
         "男娘服裝搭配建議",
         "File I/O in Python",
-        "偽娘拍照技巧"
+        "偽娘拍照技巧",
+        "Working with APIs in Python"
     ],
     "suggestions": [
-        "NumPy for Numerical Computation",
-        "Regular Expressions (Regex) in Python",
-        "Web Scraping with Beautiful Soup",
-        "Working with APIs in Python",
-        "Data Cleaning with Pandas",
         "Time Complexity Analysis",
-        "Sorting Algorithms (Merge Sort, Quick Sort)",
+        "Sorting Algorithms (Merge Sort)",
         "Dynamic Programming",
-        "Database Interactions with SQLAlchemy",
+        "Regular Expressions in Python",
+        "Web Scraping with Beautiful Soup",
+        "Data Cleaning with Pandas",
         "Machine Learning with Scikit-learn",
-        "男娘骨架隱藏：束胸選擇與穿戴技巧",
-        "男娘妝容技巧：修容與打亮教學",
-        "男娘服裝搭配：根據場合選擇服裝",
-        "男娘眼神魅力：眼神訓練與運用",
-        "男娘香氣氣場：香水選擇與使用",
-        "版本控制與Git",
-        "Python Debugging Techniques"
+        "Neural Networks with TensorFlow",
+        "Cloud Computing with AWS",
+        "Docker Containers",
+        "SQL Databases",
+        "NoSQL Databases (MongoDB)",
+        "Version Control with Git",
+        "Software Testing with Pytest",
+        "男娘骨架隱藏：肩寬縮小技巧",
+        "男娘妝容：修容技巧進階",
+        "男娘服裝搭配：連身裙選擇要點",
+        "男娘眼神魅力：隱形眼鏡挑選與佩戴",
+        "男娘香氣氣場：適合的香水推薦"
     ]
 }
