@@ -12,27 +12,27 @@
         "男娘服裝搭配建議",
         "File I/O in Python",
         "偽娘拍照技巧",
-        "Working with APIs in Python"
+        "Working with APIs in Python",
+        "SQL Databases"
     ],
     "suggestions": [
         "Time Complexity Analysis",
-        "Sorting Algorithms (Merge Sort)",
+        "Sorting Algorithms (Merge Sort, Quick Sort)",
         "Dynamic Programming",
         "Regular Expressions in Python",
         "Web Scraping with Beautiful Soup",
-        "Data Cleaning with Pandas",
-        "Machine Learning with Scikit-learn",
-        "Neural Networks with TensorFlow",
-        "Cloud Computing with AWS",
-        "Docker Containers",
-        "SQL Databases",
-        "NoSQL Databases (MongoDB)",
+        "Data Structures (Linked Lists, Trees)",
         "Version Control with Git",
-        "Software Testing with Pytest",
-        "男娘骨架隱藏：肩寬縮小技巧",
-        "男娘妝容：修容技巧進階",
-        "男娘服裝搭配：連身裙選擇要點",
-        "男娘眼神魅力：隱形眼鏡挑選與佩戴",
-        "男娘香氣氣場：適合的香水推薦"
+        "Testing in Python (Unit Tests)",
+        "Docker for Python Development",
+        "NumPy for Numerical Computing",
+        "男娘骨架隱藏：胸部塑造技巧",
+        "妝容技巧：自然偽娘底妝",
+        "服裝搭配：日常男娘風格穿搭",
+        "眼神魅力：偽娘眼神訓練",
+        "香氣氣場：適合偽娘的香水選擇",
+        "男娘骨架隱藏：肩部線條弱化",
+        "服裝搭配：偽娘約會穿搭推薦",
+        "妝容技巧：進階眼妝教學"
     ]
 }
