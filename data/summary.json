@@ -13,26 +13,24 @@
         "File I/O in Python",
         "偽娘拍照技巧",
         "Working with APIs in Python",
-        "SQL Databases"
+        "SQL Databases",
+        "男娘骨架隱藏：肩部線條弱化"
     ],
     "suggestions": [
         "Time Complexity Analysis",
-        "Sorting Algorithms (Merge Sort, Quick Sort)",
         "Dynamic Programming",
+        "Sorting Algorithms (Merge Sort, Quick Sort)",
+        "Linked Lists",
+        "Trees (Binary Trees, BST)",
+        "Hash Tables",
         "Regular Expressions in Python",
         "Web Scraping with Beautiful Soup",
-        "Data Structures (Linked Lists, Trees)",
-        "Version Control with Git",
-        "Testing in Python (Unit Tests)",
-        "Docker for Python Development",
-        "NumPy for Numerical Computing",
-        "男娘骨架隱藏：胸部塑造技巧",
-        "妝容技巧：自然偽娘底妝",
-        "服裝搭配：日常男娘風格穿搭",
-        "眼神魅力：偽娘眼神訓練",
-        "香氣氣場：適合偽娘的香水選擇",
-        "男娘骨架隱藏：肩部線條弱化",
-        "服裝搭配：偽娘約會穿搭推薦",
-        "妝容技巧：進階眼妝教學"
+        "Machine Learning Basics with Scikit-learn",
+        "NumPy for Numerical Computation",
+        "Error Handling in Python",
+        "Python Decorators",
+        "Virtual Environments in Python",
+        "Git for Version Control",
+        "Command Line Interface (CLI) Basics"
     ]
 }
