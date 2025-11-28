@@ -14,23 +14,28 @@
         "偽娘拍照技巧",
         "Working with APIs in Python",
         "SQL Databases",
-        "男娘骨架隱藏：肩部線條弱化"
+        "男娘骨架隱藏：肩部線條弱化",
+        "NumPy for Numerical Computation"
     ],
     "suggestions": [
         "Time Complexity Analysis",
-        "Dynamic Programming",
         "Sorting Algorithms (Merge Sort, Quick Sort)",
         "Linked Lists",
         "Trees (Binary Trees, BST)",
         "Hash Tables",
+        "Dynamic Programming",
         "Regular Expressions in Python",
         "Web Scraping with Beautiful Soup",
-        "Machine Learning Basics with Scikit-learn",
-        "NumPy for Numerical Computation",
-        "Error Handling in Python",
-        "Python Decorators",
-        "Virtual Environments in Python",
-        "Git for Version Control",
-        "Command Line Interface (CLI) Basics"
+        "Flask Web Framework",
+        "Django Web Framework",
+        "Machine Learning with Scikit-learn",
+        "Deep Learning with TensorFlow/Keras",
+        "Image Processing with OpenCV",
+        "Natural Language Processing (NLP)",
+        "男娘骨架隱藏：腰部線條塑造",
+        "妝容技巧：修容打亮",
+        "服裝搭配：色彩搭配原則",
+        "眼神魅力：眼神訓練技巧",
+        "香氣氣場：香水選擇與使用"
     ]
 }
