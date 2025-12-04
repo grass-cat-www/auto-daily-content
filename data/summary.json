@@ -19,28 +19,27 @@
         "Django Web Framework",
         "進階偽娘妝容：舞台/Cosplay",
         "Data Structures (Linked Lists, Trees, Hash Tables)",
-        "Time Complexity Analysis"
+        "Time Complexity Analysis",
+        "偽娘髮型設計"
     ],
     "suggestions": [
         "Sorting Algorithms (Merge Sort, Quick Sort)",
+        "Dynamic Programming",
         "Regular Expressions (Regex) in Python",
         "Web Scraping with Beautiful Soup",
-        "Asynchronous Programming with Asyncio",
         "Machine Learning Basics with Scikit-learn",
-        "Image Processing with Pillow",
-        "Natural Language Processing (NLP) with NLTK",
-        "Version Control with Git and GitHub",
+        "Cloud Computing (AWS, Azure, GCP)",
+        "Docker and Containerization",
+        "Version Control with Git",
+        "Flask Web Framework",
         "Testing in Python (Unit Tests, Integration Tests)",
-        "Deployment with Docker",
-        "男娘骨架隱藏：腰部塑形",
-        "男娘骨架隱藏：腿型調整",
-        "妝容技巧：修容",
-        "妝容技巧：唇妝",
-        "服裝搭配：絲襪選擇",
-        "服裝搭配：裙子版型選擇",
-        "眼神魅力：眼神訓練方法",
-        "香氣氣場：香水選擇與使用",
-        "偽娘髮型設計",
-        "偽娘聲音訓練：進階技巧"
+        "Code Optimization Techniques",
+        "男娘骨架隱藏：腰部線條調整",
+        "男娘骨架隱藏：腿部線條修飾",
+        "妝容技巧：不同場合的唇妝選擇",
+        "服裝搭配：如何選擇適合的內衣",
+        "服裝搭配：配件的運用 (飾品、包包)",
+        "眼神魅力：如何訓練眼神的柔媚感",
+        "香氣氣場：香水的選擇與使用"
     ]
 }
